@@ -785,7 +785,7 @@ body {
   .flex-container-s {
     flex-direction: column;
     gap: 72px;
-    
+    margin: auto;
   }
   
   .flex-h-s {
