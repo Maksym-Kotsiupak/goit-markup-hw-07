@@ -829,7 +829,9 @@ body {
     line-height: 1.11;
   }
     .distinctive-features-text {
-      font-weight: 400;
+      font-size: 16px;
+        line-height: 24px;
+        
   
     }
 
@@ -1711,7 +1713,11 @@ color: var(--fond-color);
 
 }
 
-
+@media screen and (min-width: 1157px){
+  .distinctive-features-text{
+    font-weight: 100;
+  }
+}
 
 
  
